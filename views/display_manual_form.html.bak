@@ -1,0 +1,9 @@
+{{extend 'layout.html'}}
+<form action="#" enctype="multipart/form-data" method="post">
+<ul>
+  <li>Title: <input name="name" /></li>
+  <li>Body: <input name="name" /></li>
+</ul>
+  <input type="submit" />
+  <input type="hidden" name="_formname" value="test" />
+</form>

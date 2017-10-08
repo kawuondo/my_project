@@ -1,0 +1,242 @@
+# -*- coding: utf-8 -*-
+country(
+
+    Afghanistan (Kabul) (AS),
+    Albania (Tirane) (EU),
+    Algeria (Algiers) (AF),
+#    Andorra (Andorra la Vella) (EU),
+    Angola (Luanda) (AF),
+    Antigua and Barbuda (St. Johns) (NA),
+#    Argentina (Buenos Aires) (SA),
+    Armenia (Yerevan) (EU),
+    Australia (Canberra) (AU),
+    Austria (Vienna) (EU),
+    Azerbaijan (Baku) (AS),
+
+
+    Bahamas (Nassau) (NA),
+    Bahrain (Manama) (AS),
+    Bangladesh (Dhaka) (AS),
+    Barbados (Bridgetown) (NA),
+    Belarus (Minsk) (EU),
+    Belgium (Brussels) (EU),
+    Belize (Belmopan) (NA),
+    Benin (Porto-Novo) (AF),
+    Bhutan (Thimphu) (AS),
+    Bolivia (Sucre) (SA),
+    Bosnia and Herzegovina (Sarajevo) (EU),
+    Botswana (Gaborone) (AF),
+    Brazil (Brasilia) (SA),
+#    Brunei (Bandar Seri Begawan) (AS),
+    Bulgaria (Sofia) (EU),
+#    Burkina Faso (Ouagadougou) (AF),
+#    Burma/Myanmar (Nay Pyi Taw) (AS),
+    Burundi (Bujumbura) (AF),
+
+
+#    Cambodia (Phnom Penh) (AS),
+    Cameroon (Yaounde) (AF),
+    Canada (Ottawa) (NA),
+#    Cape Verde (Praia) (EU - Portugal),
+#    Central African Republic (Bangui) (AF),
+#    Chad (N'Djamena) (AF),
+    Chile (Santiago) (SA),
+    China (Beijing) (AS),
+    Colombia (Bogota) (SA),
+    Comoros (Moroni) (AF),
+    Congo (Brazzaville) (AF),
+    Congo Democratic Republic of, #(Kinshasa), #(AF),
+    Costa Rica (San Jose) (NA),
+    Cote d'Ivoire/Ivory Coast (Yamoussoukro) (AF),
+    Croatia (Zagreb) (EU),
+    Cuba (Havana) (NA),
+    Cyprus (Nicosia) (AS) and/or (EU),
+    Czech Republic (Prague) (EU),
+
+
+    Denmark (Copenhagen) (EU),
+    Djibouti (Djibouti) (AF),
+    Dominica (Roseau) (NA),
+    Dominican Republic (Santo Domingo) (NA),
+
+
+    East Timor (Dili) (AS),
+    Ecuador (Quito) (SA),
+    Egypt (Cairo) (AF),
+    El Salvador (San Salvador) (NA),
+    Equatorial Guinea (Malabo) (AF),
+    Eritrea (Asmara) (AF),
+    Estonia (Tallinn) (EU),
+    Ethiopia (Addis Ababa) (AF),
+
+
+    Fiji (Suva) (AU - Oceania),
+    Finland (Helsinki) (EU),
+    France (Paris) (EU),
+
+
+    Gabon (Libreville) (AF),
+    Gambia (Banjul) (AF),
+    Georgia (Tbilisi) (EU),
+    Germany (Berlin) (EU),
+    Ghana (Accra) (AF),
+    Greece (Athens) (EU),
+    Grenada (St. George's) (NA),
+    Guatemala (Guatemala City) (NA),
+    Guinea (Conakry) (AF),
+    Guinea-Bissau (Bissau) (AF),
+    Guyana (Georgetown) (SA),
+
+
+    Haiti (Port-au-Prince) (NA),
+    Honduras (Tegucigalpa) (NA),
+    Hungary (Budapest) (EU),
+
+
+    Iceland (Reykjavik) (EU),
+    India (New Delhi) (AS),
+    Indonesia (Jakarta) (AS),
+    Iran (Tehran) (AS),
+    Iraq (Baghdad) (AS),
+    Ireland (Dublin) (EU),
+    Israel (Jerusalem) (AS),
+    Italy (Rome) (EU),
+
+
+    Jamaica (Kingston) (NA),
+    Japan (Tokyo) (AS),
+    Jordan (Amman) (AS),
+
+
+    Kazakhstan (Astana) (AS),
+    Kenya (Nairobi) (AF),
+    Kiribati (South Tarawa) (AU - Oceania),
+    Korea, North (Pyongyang) (AS),
+    Korea, South (Seoul) (AS),
+    Kuwait (Kuwait City) (AS),
+    Kyrgyzstan (Bishkek) (AS),
+
+
+    Laos (Vientiane) (AS),
+    Latvia (Riga) (EU),
+    Lebanon (Beirut) (AS),
+    Lesotho (Maseru) (AF),
+    Liberia (Monrovia) (AF),
+    Libya (Tripoli) (AF),
+    Liechtenstein (Vaduz) (EU),
+    Lithuania (Vilnius) (EU),
+    Luxembourg (Luxembourg) (EU),
+
+
+    Macedonia (Skopje) (EU),
+    Madagascar (Antananarivo) (AF),
+    Malawi (Lilongwe) (AF),
+    Malaysia (Kuala Lumpur) (AS),
+    Maldives (Male) (AS),
+    Mali (Bamako) (AF),
+    Malta (Valletta) (EU),
+    Marshall Islands (Majuro) (AU - Oceania),
+    Mauritania (Nouakchott) (AF),
+    Mauritius (Port Louis) (AF),
+    Mexico (Mexico City) (NA),
+    Micronesia (Palikir) (AU - Oceania),
+    Moldova (Chisinau) (EU),
+    Monaco (Monaco) (EU),
+    Mongolia (Ulan Bator) (AS),
+    Montenegro (Podgorica) (EU),
+    Morocco (Rabat) (AF) (including Western Sahara),
+    Mozambique (Maputo) (AF),
+
+    Namibia (Windhoek) (AF),
+    Nauru (no official capital) (AU - Oceania),
+    Nepal (Kathmandu) (AS),
+    Netherlands (Amsterdam, The Hague) (EU),
+    New Zealand (Wellington) (AU),
+    Nicaragua (Managua) (NA),
+    Niger (Niamey) (AF),
+    Nigeria (Abuja) (AF),
+    Norway (Oslo) (EU),
+             
+
+    Oman (Muscat) (AS),
+             
+
+    Pakistan (Islamabad) (AS),
+    Palau (Koror) (AU - Oceania),
+    Panama (Panama City) (NA),
+    Papua New Guinea (Port Moresby) (AU),
+    Paraguay (Asuncion) (SA),
+    Peru (Lima) (SA),
+    Philippines (Manila) (AS),
+    Poland (Warsaw) (EU),
+    Portugal (Lisbon) (EU),
+
+    Qatar (Doha) (AS)
+
+    Romania (Bucharest) (EU),
+    Russian Federation (Moscow) (AS),
+    Rwanda (Kigali) (AF),
+
+
+    Saint Kitts and Nevis (Basseterre) (NA),
+    Saint Lucia (Castries) (NA),
+    Saint Vincent and the Grenadines (Kingstown) (NA),
+    Samoa (Apia) (AU - Oceania),
+    San Marino (San Marino) (EU),
+    Sao Tome and Principe (Sao Tome) (AF),
+    Saudi Arabia (Riyadh) (AS),
+    Senegal (Dakar) (AF),
+    Serbia (Belgrade) (EU),
+    Seychelles (Victoria) (AF),
+    Sierra Leone (Freetown) (AF),
+    Singapore (Singapore City) (AS),
+    Slovakia (Bratislava) (EU),
+    Slovenia (Ljubljana) (EU),
+    Solomon Islands (Honiara) (AU - Oceania),
+    Somalia (Mogadishu) (AF),
+    South Africa (Pretoria, Cape Town, Bloemfontein) (AF),
+    South Sudan (Juba) (AF),
+    Spain (Madrid) (EU),
+    Sri Lanka (Colombo) (AS),
+    Sudan (Khartoum) (AF),
+    Suriname (Paramaribo) (SA),
+    Swaziland (Mbabane) (AF),
+    Sweden (Stockholm) (EU),
+    Switzerland (Bern) (EU),
+    Syria (Damascus) (AS),
+
+
+    Tajikistan (Dushanbe) (AS),
+    Tanzania (Dodoma) (AF),
+    Thailand (Bangkok) (AS),
+    Togo (Lome) (AF),
+    Tonga (Nuku'alofa) (AU - Oceania),
+    Trinidad and Tobago (Port-of-Spain) (NA),
+    Tunisia (Tunis) (AF),
+    Turkey (Ankara) (AS) & (EU),
+    Turkmenistan (Ashgabat) (AS),
+    Tuvalu (Funafuti) (AU - Oceania),
+
+
+    Uganda (Kampala) (AF),
+    Ukraine (Kiev) (EU),
+    United Arab Emirates (Abu Dhabi) (AS),
+    United Kingdom (London) (EU),
+    United States (Washington D.C.) (NA),
+    Uruguay (Montevideo) (SA),
+    Uzbekistan (Tashkent) (AS),
+
+
+    Vanuatu (Port-Vila) (AU - Oceania),
+    Vatican City (na) (EU),
+    Venezuela (Caracas) (SA),
+    Vietnam (Hanoi) (AS),
+
+
+    Yemen (Sana) (AS),
+
+
+    Zambia (Lusaka) (AF),
+    Zimbabwe (Harare) (AF),
+
+)

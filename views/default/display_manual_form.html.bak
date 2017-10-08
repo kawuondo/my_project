@@ -1,0 +1,13 @@
+{{extend 'layout.html'}}
+
+<div style="background-color: #99FF99; margin: auto; margin: auto; width: 50%; content-align: centre">
+<form action="#" enctype="multipart/form-data" method="post"  >
+  Title: <br /><input name="title", class="title" style="width: 100%" /><br />
+  Body: <br /><input name="body", class="body" style="width: 100%; height:100;" /><br />
+  Language: <br /><input name="language", class="language" style="width: 100%" /><br />
+  Category: <br /><input name="category", class="category" style="width: 100%" /><br />
+  Country: <br /><input name="country", class="country" style="width: 100%" /><br />
+    <br /><input type="submit", class="submit" style="text-align: center" /><br />
+    <input type="hidden" name="_formname" value="test" />
+</form>
+</div>

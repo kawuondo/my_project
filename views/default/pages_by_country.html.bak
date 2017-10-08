@@ -1,0 +1,12 @@
+{{extend 'layout.html'}}
+<div class="pagesBycountryPage">
+    <div class="body">
+        {{for page in pages:}}
+        <div class="row">
+            <div class="tile" >
+                {{=A(page.title, _href=URL('show', args=page.id))}}<br />
+            </div>
+        </div>
+        {{pass}}
+    </div>
+</div>

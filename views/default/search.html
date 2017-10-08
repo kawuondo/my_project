@@ -1,0 +1,13 @@
+{{response.files.append(URL('static','css/base.css'))}}
+{{include 'web2py_ajax.html'}}
+{{extend 'layout.html'}}
+<div class="searchPage">
+    <div class="body">
+        <h1 class="heading1">Search pages</h1>
+            <div class="searchBox">
+                {{=form}}
+            </div>
+        <div class="searchResults">
+    {{=target_div}}
+    </div>
+</div>

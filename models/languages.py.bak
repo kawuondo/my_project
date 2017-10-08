@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+language = [
+    (T('Home'), False,[]),
+    (T('My Pages'), False, [])
+]

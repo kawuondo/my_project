@@ -1,0 +1,16 @@
+{{response.files.append(URL('static','css/base.css'))}}
+{{include 'web2py_ajax.html'}}
+{{extend 'layout.html'}}
+<div class="collapse navbar-collapse">
+<h2>Languages</h2>
+<table>
+    {{for language in languages:}}
+    <tr>
+        <td>{{=A(language.name, _href=URL('pages_by_language', request.args(0)))}}</td>
+        <td>{{=A('edit', _href=URL('language_edit'))}}</td>
+    </tr>
+    {{pass}}
+    <tr>
+        <td>{{=A('add language', _href=URL('language_create'))}}</td>
+    </tr>
+</table>

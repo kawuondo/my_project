@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.TypeError'> __init__() got an unexpected keyword argument 'maxlength'"
+p3
+sS'layer'
+p4
+S'/home/dunga/web2py/applications/safaritext/controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7f9861cbf930, file "/home/dunga/web2py/applications/safaritext/controllers/default.py", line 1>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/home/dunga/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/dunga/web2py/applications/safaritext/controllers/default.py", line 123, in <module>\n  File "/home/dunga/web2py/gluon/globals.py", line 414, in <lambda>\n    self._caller = lambda f: f()\n  File "/home/dunga/web2py/gluon/tools.py", line 3981, in f\n    return action(*a, **b)\n  File "/home/dunga/web2py/applications/safaritext/controllers/default.py", line 3, in create\n    form = SQLFORM(db.page, requires=IS_LENGTH(maxlength=10)).process(next=URL(\'index\'))\nTypeError: __init__() got an unexpected keyword argument \'maxlength\'\n'
+p11
+s.

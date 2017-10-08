@@ -1,0 +1,984 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.NameError'> name 'e_languages' is not defined"
+p3
+sS'layer'
+p4
+S'/home/dunga/web2py/applications/safaritext/models/menu.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7fddd60619b0, file "/home/dunga/web2py/applications/safaritext/models/menu.py", line 12>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__getslice__'
+p12
+S"<method-wrapper '__getslice__' of exceptions.NameError object>"
+p13
+sS'__str__'
+p14
+S"<method-wrapper '__str__' of exceptions.NameError object>"
+p15
+sS'__reduce__'
+p16
+S'<built-in method __reduce__ of exceptions.NameError object>'
+p17
+sS'__dict__'
+p18
+S'{}'
+p19
+sS'message'
+p20
+S'"name \'e_languages\' is not defined"'
+p21
+sS'__sizeof__'
+p22
+S'<built-in method __sizeof__ of exceptions.NameError object>'
+p23
+sS'__init__'
+p24
+S"<method-wrapper '__init__' of exceptions.NameError object>"
+p25
+sS'__setattr__'
+p26
+S"<method-wrapper '__setattr__' of exceptions.NameError object>"
+p27
+sS'__reduce_ex__'
+p28
+S'<built-in method __reduce_ex__ of exceptions.NameError object>'
+p29
+sS'__new__'
+p30
+S'<built-in method __new__ of type object>'
+p31
+sS'__format__'
+p32
+S'<built-in method __format__ of exceptions.NameError object>'
+p33
+sS'__class__'
+p34
+S"<type 'exceptions.NameError'>"
+p35
+sS'__doc__'
+p36
+S"'Name not found globally.'"
+p37
+sS'__getitem__'
+p38
+S"<method-wrapper '__getitem__' of exceptions.NameError object>"
+p39
+sS'__setstate__'
+p40
+S'<built-in method __setstate__ of exceptions.NameError object>'
+p41
+sS'__getattribute__'
+p42
+S"<method-wrapper '__getattribute__' of exceptions.NameError object>"
+p43
+sS'args'
+p44
+S'("name \'e_languages\' is not defined",)'
+p45
+sS'__subclasshook__'
+p46
+S'<built-in method __subclasshook__ of type object>'
+p47
+sS'__unicode__'
+p48
+S'<built-in method __unicode__ of exceptions.NameError object>'
+p49
+sS'__delattr__'
+p50
+S"<method-wrapper '__delattr__' of exceptions.NameError object>"
+p51
+sS'__repr__'
+p52
+S"<method-wrapper '__repr__' of exceptions.NameError object>"
+p53
+sS'__hash__'
+p54
+S"<method-wrapper '__hash__' of exceptions.NameError object>"
+p55
+ssS'evalue'
+p56
+S"name 'e_languages' is not defined"
+p57
+sS'request'
+p58
+cgluon.html
+XML_unpickle
+p59
+(S's\xe7X\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>safaritext</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>c159212731123</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>appadmin</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_admin</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-baca4f37-0384-419b-9e10-863881986f76<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_safaritext</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-df410217-a646-4137-92d3-96a53dc5ebfc<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>*/*</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>en-US,en;q=0.5</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_safaritext=127.0.0.1-df410217-a646-4137-92d3-96a53dc5ebfc; session_id_admin=127.0.0.1-baca4f37-0384-419b-9e10-863881986f76</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/admin/edit/safaritext/models/menu.py?id=models__menu__py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_WEB2PY_COMPONENT_ELEMENT</td><td style="vertical-align:top;">:</td><td><div>c159212731123</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_WEB2PY_COMPONENT_LOCATION</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/admin/edit/safaritext/models/menu.py?id=models__menu__py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_X_REQUESTED_WITH</td><td style="vertical-align:top;">:</td><td><div>XMLHttpRequest</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/safaritext/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>60794</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>dunga-Satellite-Pro-U400</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;/home/dunga/web2py/applications/safaritext/&#x27;, &#x27;/home/dunga/web2py/applications/admin/&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>/home/dunga/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x7fde0ebdc200: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;dunga-Satellite-Pro-U400&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;/home/dunga/web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>/home/dunga/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>*/*</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>en-US,en;q=0.5</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_safaritext=127.0.0.1-df410217-a646-4137-92d3-96a53dc5ebfc; session_id_admin=127.0.0.1-baca4f37-0384-419b-9e10-863881986f76</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/admin/edit/safaritext/models/menu.py?id=models__menu__py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:55.0) Gecko/20100101 Firefox/55.0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_web2py_component_element</td><td style="vertical-align:top;">:</td><td><div>c159212731123</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_web2py_component_location</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/admin/edit/safaritext/models/menu.py?id=models__menu__py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_x_requested_with</td><td style="vertical-align:top;">:</td><td><div>XMLHttpRequest</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>::1</div></td></tr><tr><td><div>127.0.1.1</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr><tr><td><div>dunga-Satellite-Pro-U400</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/safaritext/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>60794</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>GET</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/safaritext/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>dunga-Satellite-Pro-U400</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_original_uri</td><td style="vertical-align:top;">:</td><td><div>/safaritext/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>/home/dunga/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.15.4-stable+timestamp.2017.09.02.04.02.22</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x7fde12bfb1e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x7fde0ec0f258&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x7fddd4e27f50&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x7fde12bfb1e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x7fde0ec0f258&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x7fddd4e27f50&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>/home/dunga/web2py/applications/safaritext/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;/home/dunga/web2py/applications/safaritext/&#x27;, &#x27;/home/dunga/web2py/applications/admin/&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>/home/dunga/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x7fde0ebdc200: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;dunga-Satellite-Pro-U400&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;/home/dunga/web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>/home/dunga/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>::1</div></td></tr><tr><td><div>127.0.1.1</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr><tr><td><div>dunga-Satellite-Pro-U400</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.15.4-stable+timestamp.2017.09.02.04.02.22</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 10, 4, 10, 2, 57, 616254)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/safaritext/appadmin/hooks</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 10, 4, 7, 2, 57, 616292)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x7fddd619f810&gt;</div></td></tr></table></div>'
+tRp60
+sS'frames'
+p61
+(lp62
+(dp63
+S'file'
+p64
+S'/home/dunga/web2py/gluon/restricted.py'
+p65
+sS'dump'
+p66
+(dp67
+S'environment'
+p68
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, 'CAT': <class 'gluon.html.CAT'>, ...}"
+p69
+sS'ccode'
+p70
+S'<code object <module> at 0x7fddd60619b0, file "/...applications/safaritext/models/menu.py", line 12>'
+p71
+ssS'lnum'
+p72
+I219
+sS'lines'
+p73
+(dp74
+I214
+S'    if environment is None:'
+p75
+sI215
+S'        environment = {}'
+p76
+sI216
+S"    environment['__file__'] = layer"
+p77
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p78
+sI218
+S'    try:'
+p79
+sI219
+S'        exec(ccode, environment)'
+p80
+sI220
+S'    except HTTP:'
+p81
+sI221
+S'        raise'
+p82
+sI222
+S'    except RestrictedError:'
+p83
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p84
+ssS'call'
+p85
+S'(ccode=<code object <module> at 0x7fddd60619b0, file "/...applications/safaritext/models/menu.py", line 12>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, \'CAT\': <class \'gluon.html.CAT\'>, ...}, layer=\'/home/dunga/web2py/applications/safaritext/models/menu.py\', scode=<code object <module> at 0x7fddd60619b0, file "/...applications/safaritext/models/menu.py", line 12>)'
+p86
+sS'func'
+p87
+S'restricted'
+p88
+sa(dp89
+g64
+S'/home/dunga/web2py/applications/safaritext/models/menu.py'
+p90
+sg66
+(dp91
+S'URL'
+p92
+S'<function URL>'
+p93
+sS'e_languages'
+p94
+S'undefined'
+p95
+sS'args'
+p96
+g95
+sS'e'
+g95
+sS'builtinFalse'
+p97
+S'False'
+p98
+ssg72
+I114
+sg73
+(dp99
+I109
+S'        ]),'
+p100
+sI110
+S"    (T('D'), False, URL('default', 'index'), ["
+p101
+sI111
+S"            (d.name, False, URL('default', 'pages_by_language', args=d.id)) for d in languages"
+p102
+sI112
+S'        ]),'
+p103
+sI113
+S"    (T('E'), False, URL('default', 'index'), ["
+p104
+sI114
+S"            (e.name, False, URL('default', 'pages_by_language', args=e.id)) for e in e_languages"
+p105
+sI115
+S'        ]),'
+p106
+sI116
+S"    (T('F'), False, URL('default', 'index'), ["
+p107
+sI117
+S"            (f.name, False, URL('default', 'pages_by_language', args=f.id)) for la in languages"
+p108
+sI118
+S'        ]),'
+p109
+ssg85
+S'()'
+p110
+sg87
+S'<module>'
+p111
+sasS'pyver'
+p112
+S'Python 2.7.12: /usr/bin/python (prefix: /usr)'
+p113
+sS'session'
+p114
+g59
+(S'sp\t\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">auth</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">expiration</td><td style="vertical-align:top;">:</td><td><div>3600</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">hmac_key</td><td style="vertical-align:top;">:</td><td><div>18980e16-dd0c-4404-bdf1-7c8f1ea68e53</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_visit</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2017, 10, 4, 10, 2, 57, 616254)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remember_me</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">user</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">email</td><td style="vertical-align:top;">:</td><td><div>michaeldunga1@gmail.com</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">first_name</td><td style="vertical-align:top;">:</td><td><div>Michael</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">id</td><td style="vertical-align:top;">:</td><td><div>1L</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">last_name</td><td style="vertical-align:top;">:</td><td><div>Dunga</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">registration_id</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">registration_key</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">reset_password_key</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">user_groups</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">1</td><td style="vertical-align:top;">:</td><td><div>user_1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">2</td><td style="vertical-align:top;">:</td><td><div>manager</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr></table></div>'
+tRp115
+sS'etype'
+p116
+S"<type 'exceptions.NameError'>"
+p117
+sS'date'
+p118
+S'Wed Oct  4 10:02:58 2017'
+p119
+sS'response'
+p120
+g59
+(S'sY,\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x7fddd51015e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_safaritext</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-df410217-a646-4137-92d3-96a53dc5ebfc<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div>: </div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>table3cols</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>*</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">google_analytics_id</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div><table><tr><td><div>New Pages</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>By Category</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>None</div></td></tr><tr><td><div><table><tr><td><div><table><tr><td><div>Biography</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_category/3</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Business</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_category/2</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Charity</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_category/10</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Education</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_category/7</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Entertainment</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_category/9</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Music</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_category/5</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Politics</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_category/1</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Religion</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_category/6</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Sience</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_category/4</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Sports</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_category/8</div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>By Language</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/</div></td></tr><tr><td><div><table><tr><td><div><table><tr><td><div> Abenaki</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_language/2</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Abaza</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_language/1</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>English</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_language/3</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>acholi</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_language/7</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>aembu</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_language/8</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>agikuyu</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_language/4</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>agiriama</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_language/9</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>akamba</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_language/5</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>ameru</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_language/6</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>endebe</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_language/10</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>enyaruanda</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_language/11</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>ewadigu</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/pages_by_language/12</div></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>By Me</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/profile</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Create</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/create</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Write</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/write</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Search</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/search</div></td></tr><tr><td><div><table></table></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^appadmin/\\w+\\.py$</div></td></tr><tr><td><div>^appadmin/hooks/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_safaritext</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;/home/dunga/web2py/applications/safaritext/sessions/147/1eb/127.0.0.1-df410217-a646-4137-92d3-96a53dc5ebfc&#x27;, mode &#x27;rb+&#x27; at 0x7fddd5648d20&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>/home/dunga/web2py/applications/safaritext/sessions/127.0.0.1-df410217-a646-4137-92d3-96a53dc5ebfc</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>f477e8f11b19111ceea4403a93d1d207</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-df410217-a646-4137-92d3-96a53dc5ebfc</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_safaritext</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_locked</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>safaritext</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">subtitle</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">title</td><td style="vertical-align:top;">:</td><td><div>Safaritext</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>appadmin/hooks.html</div></td></tr></table></div>'
+tRp121
+sS'locals'
+p122
+(dp123
+S'Service'
+p124
+S"<class 'gluon.tools.Service'>"
+p125
+sS'TR'
+p126
+S"<class 'gluon.html.TR'>"
+p127
+sS'PY2'
+p128
+S'True'
+p129
+sS'OBJECT'
+p130
+S"<class 'gluon.html.OBJECT'>"
+p131
+sS'SQLDB'
+p132
+S"<class 'pydal.base.DAL'>"
+p133
+sg114
+S"<Storage {'_auth_next': None, 'flash': None, 'au...c9de1', '3d9ffff1-ed00-4b30-87fc-86fe616440a3']}>"
+p134
+sS'reverse_geocode'
+p135
+S'<function reverse_geocode>'
+p136
+sS'BR'
+p137
+S"<class 'gluon.html.BR'>"
+p138
+sS'local_import'
+p139
+S'<function <lambda>>'
+p140
+sS'OPTGROUP'
+p141
+S"<class 'gluon.html.OPTGROUP'>"
+p142
+sS'LI'
+p143
+S"<class 'gluon.html.LI'>"
+p144
+sS'redirect'
+p145
+S'<function redirect>'
+p146
+sS'IS_INT_IN_RANGE'
+p147
+S"<class 'gluon.validators.IS_INT_IN_RANGE'>"
+p148
+sS'to_bytes'
+p149
+S'<function to_bytes>'
+p150
+sS'IS_LOWER'
+p151
+S"<class 'gluon.validators.IS_LOWER'>"
+p152
+sS'IS_STRONG'
+p153
+S"<class 'gluon.validators.IS_STRONG'>"
+p154
+sS'c_languages'
+p155
+S'<Rows (7)>'
+p156
+sS'Recaptcha'
+p157
+S"<class 'gluon.tools.Recaptcha'>"
+p158
+sS'cache'
+p159
+S'<gluon.cache.Cache object>'
+p160
+sS'IS_IN_DB'
+p161
+S"<class 'gluon.validators.IS_IN_DB'>"
+p162
+sS'languages'
+p163
+S'<Rows (12)>'
+p164
+sS'TAG'
+p165
+S'<gluon.html.__TAG__ object>'
+p166
+sS'SQLField'
+p167
+S"<class 'pydal.objects.Field'>"
+p168
+sS'mail'
+p169
+S'<gluon.tools.Mail object>'
+p170
+sS'm_languages'
+p171
+S'<Rows (7)>'
+p172
+sS'BODY'
+p173
+S"<class 'gluon.html.BODY'>"
+p174
+sS'IS_DATE_IN_RANGE'
+p175
+S"<class 'gluon.validators.IS_DATE_IN_RANGE'>"
+p176
+sS'TH'
+p177
+S"<class 'gluon.html.TH'>"
+p178
+sS'ON'
+p179
+g129
+sS'URL'
+p180
+S'<function URL>'
+p181
+sS'__file__'
+p182
+S"'/home/dunga/web2py/applications/safaritext/models/menu.py'"
+p183
+sS'db'
+p184
+S'<DAL uri="sqlite://storage.sqlite">'
+p185
+sS'auth'
+p186
+S'<gluon.tools.Auth object>'
+p187
+sS'P'
+S"<class 'gluon.html.P'>"
+p188
+sS'T'
+S'<gluon.languages.translator object>'
+p189
+sS'iteritems'
+p190
+S'<function <lambda>>'
+p191
+sS'XHTML'
+p192
+S"<class 'gluon.html.XHTML'>"
+p193
+sS'categories'
+p194
+S'<Rows (10)>'
+p195
+sS'v_languages'
+p196
+S'<Rows (4)>'
+p197
+sS'OL'
+p198
+S"<class 'gluon.html.OL'>"
+p199
+sS'd'
+S"<Row {'id': 12L, 'name': 'ewadigu'}>"
+p200
+sS'TEXTAREA'
+p201
+S"<class 'gluon.html.TEXTAREA'>"
+p202
+sS'settings'
+p203
+S"<Storage {'layout_theme': 'Default', 'subtitle':...l_server': 'localhost', 'login_method': 'local'}>"
+p204
+sS'MENU'
+p205
+S"<class 'gluon.html.MENU'>"
+p206
+sS'IS_IMAGE'
+p207
+S"<class 'gluon.validators.IS_IMAGE'>"
+p208
+sS'LINK'
+p209
+S"<class 'gluon.html.LINK'>"
+p210
+sS'p_languages'
+p211
+S'<Rows (4)>'
+p212
+sS'z_languages'
+p213
+S'<Rows (4)>'
+p214
+sS'EM'
+p215
+S"<class 'gluon.html.EM'>"
+p216
+sS'CODE'
+p217
+S"<class 'gluon.html.CODE'>"
+p218
+sS'HTTP'
+p219
+S"<class 'gluon.http.HTTP'>"
+p220
+sS'HR'
+p221
+S"<class 'gluon.html.HR'>"
+p222
+sS'IS_DATETIME'
+p223
+S"<class 'gluon.validators.IS_DATETIME'>"
+p224
+sS'Storage'
+p225
+S"<class 'gluon.storage.Storage'>"
+p226
+sS'HEAD'
+p227
+S"<class 'gluon.html.HEAD'>"
+p228
+sS'LABEL'
+p229
+S"<class 'gluon.html.LABEL'>"
+p230
+sS'k_languages'
+p231
+S'<Rows (7)>'
+p232
+sS'CLEANUP'
+p233
+S"<class 'gluon.validators.CLEANUP'>"
+p234
+sS'plugins'
+p235
+S'<gluon.tools.PluginManager object>'
+p236
+sS'SELECT'
+p237
+S"<class 'gluon.html.SELECT'>"
+p238
+sS'l_languages'
+p239
+S'<Rows (4)>'
+p240
+sS'CENTER'
+p241
+S"<class 'gluon.html.CENTER'>"
+p242
+sS'a_languages'
+p243
+S'<Rows (7)>'
+p244
+sS'Crud'
+p245
+S"<class 'gluon.tools.Crud'>"
+p246
+sS'Auth'
+p247
+S"<class 'gluon.tools.Auth'>"
+p248
+sS'IS_EQUAL_TO'
+p249
+S"<class 'gluon.validators.IS_EQUAL_TO'>"
+p250
+sS'HTML'
+p251
+S"<class 'gluon.html.HTML'>"
+p252
+sS'w_languages'
+p253
+S'<Rows (7)>'
+p254
+sS'SQLFORM'
+p255
+S"<class 'gluon.sqlhtml.SQLFORM'>"
+p256
+sS'LOAD'
+p257
+S'<function LOAD>'
+p258
+sS'PRE'
+p259
+S"<class 'gluon.html.PRE'>"
+p260
+sS'x_languages'
+p261
+S'<Rows (4)>'
+p262
+sS'FIELDSET'
+p263
+S"<class 'gluon.html.FIELDSET'>"
+p264
+sS'b_languages'
+p265
+S'<Rows (4)>'
+p266
+sS'__builtins__'
+p267
+S"{'ArithmeticError': <type 'exceptions.ArithmeticError'>, 'AssertionError': <type 'exceptions.AssertionError'>, 'AttributeError': <type 'exceptions.AttributeError'>, 'BaseException': <type 'exceptions.BaseException'>, 'BufferError': <type 'exceptions.BufferError'>, 'BytesWarning': <type 'exceptions.BytesWarning'>, 'DeprecationWarning': <type 'exceptions.DeprecationWarning'>, 'EOFError': <type 'exceptions.EOFError'>, 'Ellipsis': Ellipsis, 'EnvironmentError': <type 'exceptions.EnvironmentError'>, ...}"
+p268
+sS'embed64'
+p269
+S'<function embed64>'
+p270
+sS'IS_LIST_OF'
+p271
+S"<class 'gluon.validators.IS_LIST_OF'>"
+p272
+sS'INPUT'
+p273
+S"<class 'gluon.html.INPUT'>"
+p274
+sS'EMBED'
+p275
+S"<class 'gluon.html.EMBED'>"
+p276
+sS'c'
+S"<Row {'id': 12L, 'name': 'ewadigu'}>"
+p277
+sS'H2'
+p278
+S"<class 'gluon.html.H2'>"
+p279
+sS'H3'
+p280
+S"<class 'gluon.html.H3'>"
+p281
+sS'BUTTON'
+p282
+S"<class 'gluon.html.BUTTON'>"
+p283
+sS'la'
+p284
+S"<Row {'id': 12L, 'name': 'ewadigu'}>"
+p285
+sS'H6'
+p286
+S"<class 'gluon.html.H6'>"
+p287
+sS'H4'
+p288
+S"<class 'gluon.html.H4'>"
+p289
+sS'H5'
+p290
+S"<class 'gluon.html.H5'>"
+p291
+sS'UL'
+p292
+S"<class 'gluon.html.UL'>"
+p293
+sS'IS_UPPER'
+p294
+S"<class 'gluon.validators.IS_UPPER'>"
+p295
+sS'xmlescape'
+p296
+S'<function xmlescape>'
+p297
+sS'IS_TIME'
+p298
+S"<class 'gluon.validators.IS_TIME'>"
+p299
+sS'OPTION'
+p300
+S"<class 'gluon.html.OPTION'>"
+p301
+sS'TITLE'
+p302
+S"<class 'gluon.html.TITLE'>"
+p303
+sS'CRYPT'
+p304
+S"<class 'gluon.validators.CRYPT'>"
+p305
+sS'ca'
+p306
+S"<Row {'id': 8L, 'name': 'Sports'}>"
+p307
+sS'IS_EMPTY_OR'
+p308
+S"<class 'gluon.validators.IS_EMPTY_OR'>"
+p309
+sS'MARKMIN'
+p310
+S"<class 'gluon.html.MARKMIN'>"
+p311
+sS'Recaptcha2'
+p312
+S"<class 'gluon.tools.Recaptcha2'>"
+p313
+sS'__name__'
+p314
+S"'__restricted__'"
+p315
+sS's_languages'
+p316
+S'<Rows (7)>'
+p317
+sS'g_languages'
+p318
+S'<Rows (7)>'
+p319
+sS'STRONG'
+p320
+S"<class 'gluon.html.STRONG'>"
+p321
+sS'COL'
+p322
+S"<class 'gluon.html.COL'>"
+p323
+sS'CKEditor'
+p324
+S"<class 'applications.safaritext.modules.plugin_ckeditor.CKEditor'>"
+p325
+sS'service'
+p326
+S'<gluon.tools.Service object>'
+p327
+sS'SCRIPT'
+p328
+S"<class 'gluon.html.SCRIPT'>"
+p329
+sS'f_languages'
+p330
+S'<Rows (4)>'
+p331
+sS'geocode'
+p332
+S'<function geocode>'
+p333
+sS'ANY_OF'
+p334
+S"<class 'gluon.validators.ANY_OF'>"
+p335
+sS'TABLE'
+p336
+S"<class 'gluon.html.TABLE'>"
+p337
+sg36
+S'\'\\nresponse.logo = A(B(\\\'safaritext\\\'), XML(\\\'&trade;...text.com/",\\n                  _id="web2py-logo")\\n\''
+p338
+sS'IS_LENGTH'
+p339
+S"<class 'gluon.validators.IS_LENGTH'>"
+p340
+sS'IS_IPV6'
+p341
+S"<class 'gluon.validators.IS_IPV6'>"
+p342
+sS'XML'
+p343
+S"<class 'gluon.html.XML'>"
+p344
+sS'a'
+S"<Row {'id': 9L, 'name': 'agiriama'}>"
+p345
+sS'B'
+S"<class 'gluon.html.B'>"
+p346
+sS'IMG'
+p347
+S"<class 'gluon.html.IMG'>"
+p348
+sS'SQLTABLE'
+p349
+S"<class 'gluon.sqlhtml.SQLTABLE'>"
+p350
+sS'reduce'
+p351
+S'<built-in function reduce>'
+p352
+sS'IS_MATCH'
+p353
+S"<class 'gluon.validators.IS_MATCH'>"
+p354
+sS'IS_ALPHANUMERIC'
+p355
+S"<class 'gluon.validators.IS_ALPHANUMERIC'>"
+p356
+sS'y_languages'
+p357
+S'<Rows (7)>'
+p358
+sS'b'
+S"<Row {'id': 12L, 'name': 'ewadigu'}>"
+p359
+sS'SPAN'
+p360
+S"<class 'gluon.html.SPAN'>"
+p361
+sS'IS_JSON'
+p362
+S"<class 'gluon.validators.IS_JSON'>"
+p363
+sS'IS_IPADDRESS'
+p364
+S"<class 'gluon.validators.IS_IPADDRESS'>"
+p365
+sS'IS_SLUG'
+p366
+S"<class 'gluon.validators.IS_SLUG'>"
+p367
+sS'IS_IPV4'
+p368
+S"<class 'gluon.validators.IS_IPV4'>"
+p369
+sS'u_languages'
+p370
+S'<Rows (7)>'
+p371
+sS'BEAUTIFY'
+p372
+S"<class 'gluon.html.BEAUTIFY'>"
+p373
+sS'META'
+p374
+S"<class 'gluon.html.META'>"
+p375
+sS'r_languages'
+p376
+S'<Rows (4)>'
+p377
+sS'fetch'
+p378
+S'<function fetch>'
+p379
+sS'H1'
+p380
+S"<class 'gluon.html.H1'>"
+p381
+sS'IS_DATE'
+p382
+S"<class 'gluon.validators.IS_DATE'>"
+p383
+sS'IS_EMAIL'
+p384
+S"<class 'gluon.validators.IS_EMAIL'>"
+p385
+sS'IS_NOT_EMPTY'
+p386
+S"<class 'gluon.validators.IS_NOT_EMPTY'>"
+p387
+sS'xrange'
+p388
+S"<type 'xrange'>"
+p389
+sS'TBODY'
+p390
+S"<class 'gluon.html.TBODY'>"
+p391
+sS'CAT'
+p392
+S"<class 'gluon.html.CAT'>"
+p393
+sS'Field'
+p394
+S"<class 'pydal.objects.Field'>"
+p395
+sS'IS_LIST_OF_EMAILS'
+p396
+S"<class 'gluon.validators.IS_LIST_OF_EMAILS'>"
+p397
+sg58
+S"<Storage {'_vars': None, 'function': 'hooks', 'c...: '/home/dunga/web2py/applications/safaritext/'}>"
+p398
+sS'Mail'
+p399
+S"<class 'gluon.tools.Mail'>"
+p400
+sS'DIV'
+p401
+S"<class 'gluon.html.DIV'>"
+p402
+sS'LEGEND'
+p403
+S"<class 'gluon.html.LEGEND'>"
+p404
+sS'to_native'
+p405
+S'<function to_native>'
+p406
+sS'COLGROUP'
+p407
+S"<class 'gluon.html.COLGROUP'>"
+p408
+sS'DAL'
+p409
+S"<class 'pydal.base.DAL'>"
+p410
+sS'TT'
+p411
+S"<class 'gluon.html.TT'>"
+p412
+sS'o_languages'
+p413
+S'<Rows (7)>'
+p414
+sS'i_languages'
+p415
+S'<Rows (7)>'
+p416
+sS'__package__'
+p417
+S'None'
+p418
+sS'IFRAME'
+p419
+S"<class 'gluon.html.IFRAME'>"
+p420
+sS'TD'
+p421
+S"<class 'gluon.html.TD'>"
+p422
+sS'PluginManager'
+p423
+S"<class 'gluon.tools.PluginManager'>"
+p424
+sS'IS_URL'
+p425
+S"<class 'gluon.validators.IS_URL'>"
+p426
+sS'A'
+S"<class 'gluon.html.A'>"
+p427
+sS'STYLE'
+p428
+S"<class 'gluon.html.STYLE'>"
+p429
+sS'IS_DATETIME_IN_RANGE'
+p430
+S"<class 'gluon.validators.IS_DATETIME_IN_RANGE'>"
+p431
+sS'FORM'
+p432
+S"<class 'gluon.html.FORM'>"
+p433
+sS't_languages'
+p434
+S'<Rows (4)>'
+p435
+sS'I'
+S"<class 'gluon.html.I'>"
+p436
+sS'crud'
+p437
+S'<gluon.tools.Crud object>'
+p438
+sS'j_languages'
+p439
+S'<Rows (4)>'
+p440
+sS'IS_NOT_IN_DB'
+p441
+S"<class 'gluon.validators.IS_NOT_IN_DB'>"
+p442
+sS'h_languages'
+p443
+S'<Rows (4)>'
+p444
+sS'q_languages'
+p445
+S'<Rows (7)>'
+p446
+sg120
+S"<Storage {'body': <cStringIO.StringO object at 0... 0x7fddd61a4c08>, 'view': 'appadmin/hooks.html'}>"
+p447
+sS'THEAD'
+p448
+S"<class 'gluon.html.THEAD'>"
+p449
+sS'Wiki'
+p450
+S"<class 'gluon.tools.Wiki'>"
+p451
+sS'IS_NULL_OR'
+p452
+S"<class 'gluon.validators.IS_EMPTY_OR'>"
+p453
+sS'prettydate'
+p454
+S'<function prettydate>'
+p455
+sS'IS_FLOAT_IN_RANGE'
+p456
+S"<class 'gluon.validators.IS_FLOAT_IN_RANGE'>"
+p457
+sS'IS_EXPR'
+p458
+S"<class 'gluon.validators.IS_EXPR'>"
+p459
+sS'IS_IN_SET'
+p460
+S"<class 'gluon.validators.IS_IN_SET'>"
+p461
+sS'IS_UPLOAD_FILENAME'
+p462
+S"<class 'gluon.validators.IS_UPLOAD_FILENAME'>"
+p463
+sS'n_languages'
+p464
+S'<Rows (4)>'
+p465
+sS'IS_DECIMAL_IN_RANGE'
+p466
+S"<class 'gluon.validators.IS_DECIMAL_IN_RANGE'>"
+p467
+sS'ASSIGNJS'
+p468
+S'<function ASSIGNJS>'
+p469
+sS'TFOOT'
+p470
+S"<class 'gluon.html.TFOOT'>"
+p471
+sssS'traceback'
+p472
+S'Traceback (most recent call last):\n  File "/home/dunga/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/dunga/web2py/applications/safaritext/models/menu.py", line 114, in <module>\n    (e.name, False, URL(\'default\', \'pages_by_language\', args=e.id)) for e in e_languages\nNameError: name \'e_languages\' is not defined\n'
+p473
+s.

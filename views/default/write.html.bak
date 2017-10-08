@@ -1,0 +1,5 @@
+{{extend 'layout.html'}}
+<div class="collapse navbar-collapse">
+    {{=MENU(menu2,_class='nav navbar-nav', li_class='dropdown',ul_class='dropdown-menu')}}
+</div>
+{{=form}}

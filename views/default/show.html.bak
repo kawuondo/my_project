@@ -1,0 +1,33 @@
+{{response.files.append(URL('static','css/base.css'))}}
+{{include 'web2py_ajax.html'}}
+{{extend 'layout.html'}}
+<div class="showPage">
+    <div class="body">
+        <div class="showTitle">
+            <h3>{{=page.title}}</h3><br />
+
+        </div>
+        <div class="showBody">
+            {{=MARKMIN(page.body)}}
+        </div>
+        <div class="edit">
+            {{=A('edit', _href=URL('edit', args=request.args))}}<br />
+        </div>
+    <br />
+
+    <div>
+        {{=form}}
+        <script>$('#post_body').css('width','500').css('height','1000px');</script>
+    </div>
+
+    {{for post in comments:}}
+    <div class="comment">
+        {{=db.auth_user[post.created_by].first_name}}<br />
+        {{=MARKMIN(post.body)}}
+        {{=post.created_on}}
+    </div>
+    <br />
+    {{pass}}
+
+    </div>
+</div>

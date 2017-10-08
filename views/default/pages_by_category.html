@@ -1,0 +1,15 @@
+{{response.files.append(URL('static','css/base.css'))}}
+{{include 'web2py_ajax.html'}}
+{{extend 'layout.html'}}
+<div class="pagesByCategoryPage">
+    <h3>Pages about {{=category.name}}</h3>
+    <div class="body">
+        {{for page in pages:}}
+        <div class="row">
+            <div class="title" >
+                {{=A(page.title, _href=URL('show', args=page.id))}}<br />
+            </div>
+        </div>
+        {{pass}}
+    </class>
+</div>

@@ -1,0 +1,21 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.Exception'> Validation error, field:language <gluon.validators.IS_IN_DB object at 0x7f4280156bd0>"
+p3
+sS'layer'
+p4
+S'/home/dunga/web2py/applications/safaritext/controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x7f42a01fe230, file "/home/dunga/web2py/applications/safaritext/controllers/default.py", line 1>'
+p7
+sS'snapshot'
+p8
+(dp9
+sS'traceback'
+p10
+S'Traceback (most recent call last):\n  File "/home/dunga/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/home/dunga/web2py/applications/safaritext/controllers/default.py", line 188, in <module>\n  File "/home/dunga/web2py/gluon/globals.py", line 414, in <lambda>\n    self._caller = lambda f: f()\n  File "/home/dunga/web2py/gluon/tools.py", line 3981, in f\n    return action(*a, **b)\n  File "/home/dunga/web2py/applications/safaritext/controllers/default.py", line 4, in create\n    if form.process(session=None, formname=\'create_page\').accepted:\n  File "/home/dunga/web2py/gluon/html.py", line 2300, in process\n    self.validate(**kwargs)\n  File "/home/dunga/web2py/gluon/html.py", line 2238, in validate\n    if self.accepts(**kwargs):\n  File "/home/dunga/web2py/gluon/sqlhtml.py", line 1645, in accepts\n    **kwargs\n  File "/home/dunga/web2py/gluon/html.py", line 2123, in accepts\n    status = self._traverse(status, hideerror)\n  File "/home/dunga/web2py/gluon/html.py", line 886, in _traverse\n    newstatus = c._traverse(status, hideerror) and newstatus\n  File "/home/dunga/web2py/gluon/html.py", line 886, in _traverse\n    newstatus = c._traverse(status, hideerror) and newstatus\n  File "/home/dunga/web2py/gluon/html.py", line 886, in _traverse\n    newstatus = c._traverse(status, hideerror) and newstatus\n  File "/home/dunga/web2py/gluon/html.py", line 886, in _traverse\n    newstatus = c._traverse(status, hideerror) and newstatus\n  File "/home/dunga/web2py/gluon/html.py", line 893, in _traverse\n    newstatus = self._validate()\n  File "/home/dunga/web2py/gluon/html.py", line 1869, in _validate\n    raise Exception(msg)\nException: Validation error, field:language <gluon.validators.IS_IN_DB object at 0x7f4280156bd0>\n'
+p11
+s.

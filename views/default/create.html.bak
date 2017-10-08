@@ -1,0 +1,7 @@
+{{response.files.append(URL('static','css/base.css'))}}
+{{include 'web2py_ajax.html'}}
+{{extend 'layout.html'}}
+<h3>Create a page</h3>
+{{=form}}
+<script>$('#page_title').css('width','945px').css('height','50px');</script>
+<script>$('#page_body').css('width','945px').css('height','100px');</script>

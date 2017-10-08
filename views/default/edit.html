@@ -1,0 +1,7 @@
+{{response.files.append(URL('static','css/base.css'))}}
+{{include 'web2py_ajax.html'}}
+{{extend 'layout.html'}}
+
+<h3>Edit page</h3>
+[ {{=A('show', _href=URL('show', args=request.args))}} ]<br />
+{{=form}}

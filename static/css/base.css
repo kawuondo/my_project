@@ -1,0 +1,26 @@
+.indexPage{
+}
+.row{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    width: 50%;
+    text-decoration: none;
+    background-color: #E2F2D5;
+}
+
+.title{
+    text-align: center;
+    text-indent: 0px;
+    text-align: justify;
+    text-justify: inter-word;
+    text-overflow: ellipsis;
+    text-shadow: none;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    word-break: break-all;
+    word-wrap: break-word;
+}

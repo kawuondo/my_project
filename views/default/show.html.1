@@ -1,0 +1,30 @@
+{{extend 'layout.html'}}
+<div class="showPage">
+    <div class="body">
+        <div class="showTitle">
+            <h3>{{=page.title}}</h3><br />
+
+        </div>
+        <div class="showBody">
+            {{=MARKMIN(page.body)}}
+        </div>
+        <div class="edit">
+            {{=A('edit', _href=URL('edit', args=request.args))}}<br />
+        </div>
+    <br />
+
+    <div>
+        {{=form}}
+    </div>
+
+    {{for post in posts:}}
+    <div class="comment">
+        {{=db.auth_user[post.created_by].first_name}}<br />
+        {{=MARKMIN(post.body)}}
+        {{=post.created_on}}
+    </div>
+    <br />
+    {{pass}}
+
+    </div>
+</div>
